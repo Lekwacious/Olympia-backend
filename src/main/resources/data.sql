@@ -1,7 +1,7 @@
 
 INSERT INTO Footballer (id, name, email, gender, phone, height, awards, image_url, club) VALUES
 (1, 'Kelechi Iheanacho','kelechi@gmail.com', 'Male','09087766665',23.90, 'African Best footballer',
- 'images/jay.jpg','Licester City'),
+ 'https://sportinglife.ng/wp-content/uploads/2020/06/Jayjay-Okocha-ourlegacywaynew-e1556028484547-1300x976-1.jpg','Licester City'),
 (2, 'Kanu Nwakwo','papilo@gmail.com', 'Male',
     '09087766665',23.90, 'African Best footballer',
  'images/jay.jpg','Button'),
